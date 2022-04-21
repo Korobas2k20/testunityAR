@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="chips_dram" size="5.000000 3.525000" />
+    <ImageTarget name="stonesskverstroitelei" size="5.000000 3.550000" />
+  </Tracking>
+</QCARConfig>
